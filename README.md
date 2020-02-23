@@ -7,7 +7,7 @@
 
 第二部分可使用 基于深度学习的问答系统。
 
-本文主要构建第二部分，第一部分可参考：https://github.com/littleredhat1997/doc-similarity
+本文主要构建第二部分，第一部分可参考：https://github.com/Inch-Z/doc-similarity
 
 ## 下载数据
 
